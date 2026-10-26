@@ -32,6 +32,3 @@ Sau khi chạy, kết quả được lưu trong `backup/bao-cao-su-co.txt`.
 | CPU | Xử lý dữ liệu |
 | RAM | Lưu dữ liệu tạm |
 | SSD | Lưu trữ dữ liệu |
-
-## 6. Lưu ý
-Không đưa mật khẩu thật lên GitHub. Kiểm tra file log trước khi chạy script.
